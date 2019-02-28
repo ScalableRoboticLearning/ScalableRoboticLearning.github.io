@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## TENTATIVE TOPICS
 
-You can use the [editor on GitHub](https://github.com/ScalableRoboticLearning/scalableroboticlearning.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* Reducing the setup time through automatized training procedures
+  * What do we gain / sacrifice with the current methods that require less supervision?
+  * Transfer learning, learning in simulation, automatic labeling, reinforcement learning
+* How can the interaction between sensing, manipulation and planning yield mutual benefits?
+  * e.g. Extracting semantic information from visual/tactile data for improved execution planning
+* Scalable approaches for grasping novel objects and for generalizing functional grasps
+* As end-to-end approaches gain traction, which benefits and limitations do they possess compared to modular pipelines?
+  * How can we achieve introspection in end-to-end methods?
+  * Are commonly used subtask metrics in modular approaches suitable indicators for execution success?
+* Which possibilities for automatic recovery exist to create failure proof systems?
+* Addressing the needs of end-user applications in terms of robustness, runtime, cost, maintainability, etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## SCHEDULE
+To be defined
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ScalableRoboticLearning/scalableroboticlearning.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## INVITED SPEAKERS
+To be defined

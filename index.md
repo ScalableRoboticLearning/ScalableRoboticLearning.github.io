@@ -1,6 +1,8 @@
 ## Overview
 This workshop is meant to be a platform of exchange between the three communities of computer vision, machine learning, and robotics. We want encourage them to find feasible solutions that bridge the gap between stand-alone  perception and robotic related tasks such as motion or assembly planning, visual servoing  and grasping. A main topic is how sensing, manipulation and planning  can be combined to yield mutual benefits. We also search for scalable  learning-based approaches that require little supervision and examine them on their benefits and limitations. This can include learning in simulation, transfer and few-shot learning, automatic labeling or reinforcement learning. Are end-to-end learning  approaches really the right way to go or are modular pipelines still preferable due to better introspection? Are current subtask metrics suitable indicators for execution success? What is necessary to address the  needs of end-user applications in terms of scalability, robustness, runtime, cost,  maintainability and fail-safety? 
 
+---
+
 ## Invited Speakers
 * [__Kai Arras__](https://www.bosch.com/de/forschung/know-how/forscher/dr-kai-oliver-arras/), Bosch Robotics Research Program (__confirmed__)
 * [__Michael Beetz__](http://ai.uni-bremen.de/team/michael_beetz), University Bremen (requested)
@@ -11,6 +13,8 @@ This workshop is meant to be a platform of exchange between the three communitie
 * [__Peter Pastor__](https://www.linkedin.com/in/peter-pastor-sampedro-824aa584/), X (tentative)
 * [__Maximo Roa__](https://rmc.dlr.de/rm/de/staff/maximo.roa/), RoboCeption GmbH and DLR (__confirmed__)
 * [__Siddhartha Srinivasa__](https://goodrobot.ai/), University of Washington and Director of Robotics at Amazon (__confirmed__) 
+
+---
 
 ## Call for Papers
 We solicit __2-4 page extended abstracts__ (following RSS style guidelines). The submissions can include: __late-breaking results__, __under review material__, or __archived__. We strongly encourage the preparation of __live demos__ or __videos__ accompanying the submission.
@@ -29,6 +33,8 @@ We solicit __2-4 page extended abstracts__ (following RSS style guidelines). The
 
 Submitted papers will be reviewed by the organizers and invited reviewers. Accepted contributions will be presented as posters or within the Demo/Video Talk format. Selected papers are further featured as spotlight talks. All accepted contributions and posters will be posted on the workshop website upon author approval
 
+---
+
 ## SCHEDULE
 
 | Time  | Topic |
@@ -44,9 +50,11 @@ Submitted papers will be reviewed by the organizers and invited reviewers. Accep
 | __1:50 - 2:30__ | __Invited talk__: to be defined |
 | __2:30 - 3:00__ | __Coffee Break + Posters__ |
 | __3:00 - 3:40__ | __Invited talk__: to be defined |
-| __3:45 - 4:00__ | __Demo/video talks__ |
+| __3:40 - 4:00__ | __Demo/video talks__ |
 | __4:00 - 4:40__ | __Invited talk__: to be defined |
-| __4:40 - 5:00__ | __Discussion with participation of the audience and experts__ |
+| __4:40 - 5:10__ | __Discussion with participation of the audience and experts__ |
+
+---
 
 ## Organizing Committee
 * Maximilian Durner <maximilian.durner@dlr.de>
@@ -55,5 +63,4 @@ Submitted papers will be reviewed by the organizers and invited reviewers. Accep
 * En Yen Puang <en.puang@dlr.de> 
 * Rudolph Triebel <rudolph.triebel@dlr.de>
 
-## Contact
-Should you have any questions, please do not hesitate to contact the organizers.
+Should you have any questions, please __do not hesitate to contact the organizers__.

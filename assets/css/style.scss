@@ -10,4 +10,16 @@
   background-attachment: fixed;
   background-position: center top;
   background-size: contain contain;
+  
+  @include large {
+    padding: 5rem 9rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
 }

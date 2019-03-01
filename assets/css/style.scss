@@ -9,14 +9,14 @@
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center top;
-  background-size: contain contain;
+  background-size: cover contain;
 }
 
 .main-content {
   word-wrap: break-word;
 
   :first-child {
-    margin-top: 5;
+    margin-top: 0;
   }
 
   @include large {

@@ -10,9 +10,9 @@ This workshop is meant to be a platform of exchange between the three communitie
 * [__Renaud Detry__](https://www-robotics.jpl.nasa.gov/people/Renaud_Detry/), NASA JPL (__confirmed__)
 * [__Dieter Fox__](https://homes.cs.washington.edu/~fox/), University of Washington, as well as NVIDIA AI Robotics Research Lab (__confirmed__)
 * [__Maxim Likhachev__](http://www.cs.cmu.edu/~maxim/), Robotics Institute Carnegie Mellon University (__confirmed__)
-* [__Peter Pastor__](https://www.linkedin.com/in/peter-pastor-sampedro-824aa584/), X (tentative)
-* [__Maximo Roa__](https://rmc.dlr.de/rm/de/staff/maximo.roa/), RoboCeption GmbH and DLR (__confirmed__)
-* [__Siddhartha Srinivasa__](https://goodrobot.ai/), University of Washington and Director of Robotics at Amazon (__confirmed__) 
+* [__Peter Pastor__](https://scholar.google.com/citations?user=_ws9LLgAAAAJ&hl=de), X (tentative)
+* [__Maximo Roa__](https://rmc.dlr.de/rm/de/staff/maximo.roa/), RoboCeption GmbH, as well as German Aerospace Center (DLR) (__confirmed__)
+* [__Siddhartha Srinivasa__](https://goodrobot.ai/), University of Washington, as well as Director of Robotics at Amazon (__confirmed__) 
 
 ---
 

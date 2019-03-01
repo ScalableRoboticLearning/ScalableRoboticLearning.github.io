@@ -4,12 +4,11 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  height: 100%;
   background-color: rgb(255,255,255);
   background-image: url("/assets/fof_banner_with_title.png");
   background-repeat: no-repeat;
-  background-position: center top;
-  background-size: contain cover;
+  background-position: center;
+  background-size: auto;
 }
 
 .main-content {

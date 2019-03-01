@@ -34,7 +34,7 @@ Submitted papers will be reviewed by the organizers and invited reviewers. Accep
 ## SCHEDULE
 
 | Time  | Topic |
-| ------------- | ------------- |
+| :------------- | :------------- |
 | __8:30 - 8:45__ | Introductory Remarks  |
 | __8:45 - 9:15__ | __Invited talk__: to be defined |
 | __9:30 - 10:00__ | __Invited talk__: to be defined |

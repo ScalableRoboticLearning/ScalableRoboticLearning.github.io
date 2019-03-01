@@ -9,7 +9,9 @@
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center top;
-  background-size: contain 100%;
+  background-size: contain;
+  min-width: 100%;
+  min-height: 100%;
 }
 
 .main-content {
@@ -63,7 +65,7 @@
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: bold;
-    color: rgb(55, 21, 86);
+    color: rgb(65, 31, 96);
   }
 
   p {

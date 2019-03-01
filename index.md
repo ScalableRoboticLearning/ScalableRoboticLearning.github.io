@@ -1,7 +1,5 @@
 ## Overview
-In recent years, both the computer vision and the machine learning communities have shown an increasing interest in the specific challenges of robotic perception and planning. This field features a high demand for feasible training procedures, strong generalization capabilities, fast runtime, interpretable models and robustness. However, current state-of-the-art approaches can still not meet all these requirements, which is why perception is often seen as the bottleneck for robotic manipulation.
-
-This workshop serves as a platform to connect communities and encourage them to find feasible solutions that bridge the gap between stand-alone perception and robotic related tasks such as motion or assembly planning, visual servoing and grasping. A main topic is how sensing, manipulation and planning can be combined to yield mutual benefits. We also search for scalable learning-based approaches that require little supervision and examine them on their benefits and limitations. Are end-to-end learning approaches really the right way to go or are modular pipelines still preferable due to better introspection? What is necessary to address the needs of end-user applications in terms of robustness, runtime, cost, maintainability and fail-safety? 
+This workshop is meant to be a platform of exchange between the three communities of computer vision, machine learning, and robotics. We want encourage them to find feasible solutions that bridge the gap between stand-alone  perception and robotic related tasks such as motion or assembly planning, visual servoing  and grasping. A main topic is how sensing, manipulation and planning  can be combined to yield mutual benefits. We also search for scalable  learning-based approaches that require little supervision and examine them on their benefits and limitations. This can include learning in simulation, transfer and few-shot learning, automatic labeling or reinforcement learning. Are end-to-end learning  approaches really the right way to go or are modular pipelines still preferable due to better introspection? Are current subtask metrics suitable indicators for execution success? What is necessary to address the  needs of end-user applications in terms of scalability, robustness, runtime, cost,  maintainability and fail-safety? 
 
 ## Invited Speakers
 * [__Kai Arras__](https://www.bosch.com/de/forschung/know-how/forscher/dr-kai-oliver-arras/), Bosch Robotics Research Program (__confirmed__)
@@ -15,7 +13,7 @@ This workshop serves as a platform to connect communities and encourage them to 
 * [__Siddhartha Srinivasa__](https://goodrobot.ai/), University of Washington and Director of Robotics at Amazon (__confirmed__) 
 
 ## Call for Papers
-We solicit 2-4 page extended abstracts (following RSS style guidelines). The submissions can include: __late-breaking results__, __under review material__, __archived__, or __previously accepted work__. We strongly encourage the preparation of live demos or videos accompanying the submission.
+We solicit __2-4 page extended abstracts__ (following RSS style guidelines). The submissions can include: __late-breaking results__, __under review material__, or __archived__. We strongly encourage the preparation of __live demos__ or __videos__ accompanying the submission.
 
 * Reducing the setup time through automatized training procedures
   * What do we gain / sacrifice with the current methods that require less supervision?
@@ -35,26 +33,26 @@ Submitted papers will be reviewed by the organizers and invited reviewers. Accep
 
 | Time  | Topic |
 | :------------- | :------------- |
-| __8:30 - 8:45__ | Introductory Remarks  |
-| __8:45 - 9:15__ | __Invited talk__: to be defined |
-| __9:30 - 10:00__ | __Invited talk__: to be defined |
-| __10:15 - 10:30__ | __Poster spotlights 1__ |
+| __8:35 - 8:50__ | __Introductory Remarks__ |
+| __8:50 - 9:30__ | __Invited talk__: to be defined |
+| __9:30 - 10:10__ | __Invited talk__: to be defined |
+| __10:10 - 10:30__ | __Poster spotlights__ |
 | __10:30 - 11:00__ | __Coffee Break + Posters__ |
-| __11:00 - 11:30__ | __Invited talk__: to be defined |
-| __11:45 - 1:30__ | __Lunch Break__ |
-| __1:30 - 2:00__ | __Invited talk__: to be defined |
-| __2:15 - 2:30__ | __Poster spotlights 2__ |
+| __11:00 - 11:40__ | __Invited talk__: to be defined |
+| __11:40 - 12:20__ | __Invited talk__: to be defined |
+| __12:20 - 1:50__ | __Lunch Break__ |
+| __1:50 - 2:30__ | __Invited talk__: to be defined |
 | __2:30 - 3:00__ | __Coffee Break + Posters__ |
-| __3:00 - 3:30__ | __Invited talk__: to be defined |
+| __3:00 - 3:40__ | __Invited talk__: to be defined |
 | __3:45 - 4:00__ | __Demo/video talks__ |
-| __4:00 - 4:30__ | __Invited talk__: to be defined |
-| __4:45 - 5:15__ | __Discussion with participation of the audience and experts__ |
+| __4:00 - 4:40__ | __Invited talk__: to be defined |
+| __4:40 - 5:00__ | __Discussion with participation of the audience and experts__ |
 
 ## Organizing Committee
-* Maxiimilian Durner <maximilian.durner@dlr.de>
-* Martin Sundermeyer <Martin.sundermeyer@dlr.de>
+* Maximilian Durner <maximilian.durner@dlr.de>
+* Martin Sundermeyer <martin.sundermeyer@dlr.de>
 * Zoltan Marton <zoltan.marton@dlr.de>
-* EnYen Puang <en.puang@dlr.de> 
+* En Yen Puang <en.puang@dlr.de> 
 * Rudolph Triebel <rudolph.triebel@dlr.de>
 
 ## Contact

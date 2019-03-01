@@ -32,6 +32,7 @@ We solicit 2-4 page extended abstracts (following RSS style guidelines). The sub
 Submitted papers will be reviewed by the organizers and invited reviewers. Accepted contributions will be presented as posters or within the Demo/Video Talk format. Selected papers are further featured as spotlight talks. All accepted contributions and posters will be posted on the workshop website upon author approval
 
 ## SCHEDULE
+
 | Time  | Topic |
 | ------------- | ------------- |
 | __8:30 - 8:45__ | Introductory Remarks  |

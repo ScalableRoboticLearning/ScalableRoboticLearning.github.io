@@ -57,8 +57,8 @@ Submitted papers will be reviewed by the organizers and invited reviewers. Accep
 ---
 
 ## IMPORTANT DATES
-| Timeline | Event |
-|:---|:---|
+| Timeline |  |
+| :------------- | :------------- |
 | May 31, 2019 (23:59  Pacific Time) | Paper Submission Deadline |
 | June 14, 2019 (23:59 Pacific Time) | Paper Acceptance Notification |
 | June 22, 2019 | Workshop |

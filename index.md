@@ -4,15 +4,15 @@ This workshop is meant to be a platform of exchange between the three communitie
 ---
 
 ## Invited Speakers
-* [__Kai Arras__](https://www.bosch.com/de/forschung/know-how/forscher/dr-kai-oliver-arras/), Bosch Robotics Research Program (__confirmed__)
+* [__Kai Arras__](https://www.bosch.com/de/forschung/know-how/forscher/dr-kai-oliver-arras/), Bosch Robotics Research Program
 * [__Michael Beetz__](http://ai.uni-bremen.de/team/michael_beetz), University Bremen (tentative)
 * [__Jeanette Bohg__](https://am.is.tuebingen.mpg.de/person/jbohg), Stanford University (tentative)
-* [__Renaud Detry__](https://www-robotics.jpl.nasa.gov/people/Renaud_Detry/), NASA JPL (__confirmed__)
-* [__Dieter Fox__](https://homes.cs.washington.edu/~fox/), University of Washington, as well as NVIDIA AI Robotics Research Lab (__confirmed__)
-* [__Maxim Likhachev__](http://www.cs.cmu.edu/~maxim/), Robotics Institute Carnegie Mellon University (__confirmed__)
+* [__Renaud Detry__](https://www-robotics.jpl.nasa.gov/people/Renaud_Detry/), NASA JPL
+* [__Dieter Fox__](https://homes.cs.washington.edu/~fox/), University of Washington, as well as NVIDIA AI Robotics Research Lab
+* [__Maxim Likhachev__](http://www.cs.cmu.edu/~maxim/), Robotics Institute Carnegie Mellon University
 * [__Peter Pastor__](https://scholar.google.com/citations?user=_ws9LLgAAAAJ&hl=de), X (tentative)
-* [__Maximo Roa__](https://rmc.dlr.de/rm/de/staff/maximo.roa/), RoboCeption GmbH, as well as German Aerospace Center (DLR) (__confirmed__)
-* [__Siddhartha Srinivasa__](https://goodrobot.ai/), University of Washington, as well as Director of Robotics at Amazon (__confirmed__) 
+* [__Maximo Roa__](https://rmc.dlr.de/rm/de/staff/maximo.roa/), RoboCeption GmbH, as well as German Aerospace Center (DLR)
+* [__Siddhartha Srinivasa__](https://goodrobot.ai/), University of Washington, as well as Director of Robotics at Amazon
 
 ---
 
@@ -35,7 +35,7 @@ Submitted papers will be reviewed by the organizers and invited reviewers. Accep
 
 ---
 
-## SCHEDULE
+## Schedule
 
 | Time  | Topic |
 | :------------- | :------------- |
@@ -53,6 +53,17 @@ Submitted papers will be reviewed by the organizers and invited reviewers. Accep
 | __3:40 - 4:00__ | __Demo/video talks__ |
 | __4:00 - 4:40__ | __Invited talk__: to be defined |
 | __4:40 - 5:10__ | __Discussion with participation of the audience and experts__ |
+
+---
+
+## IMPORTANT DATES
+| Timeline | |
+|:-|:-|
+| May 31, 2019 (23:59  Pacific Time) | Paper Submission Deadline |
+| June 14, 2019 (23:59 Pacific Time) | Paper Acceptance Notification |
+| June 22, 2019 | Workshop |
+
+
 
 ---
 

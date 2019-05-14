@@ -68,7 +68,7 @@ Submitted papers will be reviewed by the organizers and invited reviewers. Accep
 
 ## Contact
 
-Should you have any questions, please __do not hesitate to contact the organizing committee__ at scalableroboticlearning@dlr.de:
+Should you have any questions, please __do not hesitate to contact the organizing committee__ at <scalableroboticlearning@dlr.de>:
 * Maximilian Durner
 * Martin Sundermeyer
 * Zoltan Marton

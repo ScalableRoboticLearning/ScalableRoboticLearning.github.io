@@ -37,19 +37,19 @@ Submitted papers will be reviewed by the organizers and invited reviewers. Accep
 | Time  | Topic |
 | :------------- | :------------- |
 | __8:35 - 8:50__ | __Introductory Remarks__ |
-| __8:50 - 9:30__ | __Invited talk__: to be defined |
-| __9:30 - 10:10__ | __Invited talk__: to be defined |
-| __10:10 - 10:30__ | __Poster spotlights__ |
-| __10:30 - 11:00__ | __Coffee Break + Posters__ |
-| __11:00 - 11:40__ | __Invited talk__: to be defined |
+| __9:05 - 9:45__ | __Invited talk__: to be defined |
+| __9:45 - 10:25__ | __Invited talk__: to be defined |
+| __10:25 - 10:45__ | __Poster spotlights__ |
+| __10:45 - 11:30__ | __Coffee Break + Posters__ |
 | __11:40 - 12:20__ | __Invited talk__: to be defined |
-| __12:20 - 1:50__ | __Lunch Break__ |
-| __1:50 - 2:30__ | __Invited talk__: to be defined |
+| __12:20 - 1:00__ | __Invited talk__: to be defined |
+| __1:00 - 1:45__ | __Lunch Break__ |
+| __1:45 - 2:30__ | __Invited talk__: to be defined |
 | __2:30 - 3:00__ | __Coffee Break + Posters__ |
 | __3:00 - 3:40__ | __Invited talk__: to be defined |
 | __3:40 - 4:00__ | __Demo/video talks__ |
 | __4:00 - 4:40__ | __Invited talk__: to be defined |
-| __4:40 - 5:10__ | __Discussion with participation of the audience and experts__ |
+| __4:40 - 5:00__ | __Discussion with participation of the audience and experts__ |
 
 ---
 

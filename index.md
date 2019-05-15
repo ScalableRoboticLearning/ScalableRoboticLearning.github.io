@@ -28,7 +28,9 @@ We solicit __2-4 page extended abstracts__ (following RSS style guidelines). The
 * Which possibilities for automatic recovery exist to create failure proof systems?
 * Addressing the needs of end-user applications in terms of robustness, runtime, cost, maintainability, etc.
 
-Submitted papers will be reviewed by the organizers and invited reviewers. Accepted contributions will be presented as posters or within the Demo/Video Talk format. Selected papers are further featured as spotlight talks. All accepted contributions and posters will be posted on the workshop website upon author approval
+Submitted papers will be reviewed by the organizers and invited reviewers. Accepted contributions will be presented as posters or within the Demo/Video Talk format. Selected papers are further featured as spotlight talks. All accepted contributions and posters will be posted on the workshop website upon author approval.
+
+Submission is now open on EasyChair [__SLIPP-2019RSS__](https://easychair.org/my/conference?conf=slipp2019rss), please take note on the submission [__deadline__](https://scalableroboticlearning.github.io/#important-dates).
 
 ---
 

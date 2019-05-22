@@ -8,7 +8,6 @@ This workshop is meant to be a platform of exchange between the three communitie
 * [__Renaud Detry__](https://www-robotics.jpl.nasa.gov/people/Renaud_Detry/), NASA JPL
 * [__Dieter Fox__](https://homes.cs.washington.edu/~fox/), University of Washington, as well as NVIDIA AI Robotics Research Lab
 * [__Maxim Likhachev__](http://www.cs.cmu.edu/~maxim/), Robotics Institute Carnegie Mellon University
-* [__Maximo Roa__](https://rmc.dlr.de/rm/de/staff/maximo.roa/), RoboCeption GmbH, as well as German Aerospace Center (DLR)
 * [__Siddhartha Srinivasa__](https://goodrobot.ai/), University of Washington, as well as Director of Robotics at Amazon
 
 ---

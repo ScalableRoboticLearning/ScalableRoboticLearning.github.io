@@ -5,10 +5,12 @@ This workshop is meant to be a platform of exchange between the three communitie
 
 ## Invited Speakers
 * [__Kai Arras__](https://www.bosch.com/de/forschung/know-how/forscher/dr-kai-oliver-arras/), Bosch Robotics Research Program
+* [__Michael Beetz__](http://ai.uni-bremen.de/team/michael_beetz), University Bremen
 * [__Renaud Detry__](https://www-robotics.jpl.nasa.gov/people/Renaud_Detry/), NASA JPL
 * [__Dieter Fox__](https://homes.cs.washington.edu/~fox/), University of Washington, as well as NVIDIA AI Robotics Research Lab
 * [__Maxim Likhachev__](http://www.cs.cmu.edu/~maxim/), Robotics Institute Carnegie Mellon University
-* [__Siddhartha Srinivasa__](https://goodrobot.ai/), University of Washington, as well as Director of Robotics at Amazon
+* [__Gilwoo Lee__](https://gilwoolee.github.io/), School of Computer Science & Engineering at the University of Washington
+* [__Peter Pastor__](https://scholar.google.com/citations?user=_ws9LLgAAAAJ&hl=de), X (tentative)
 
 ---
 

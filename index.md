@@ -10,7 +10,7 @@ This workshop is meant to be a platform of exchange between the three communitie
 * [__Dieter Fox__](https://homes.cs.washington.edu/~fox/), University of Washington, as well as NVIDIA AI Robotics Research Lab
 * [__Maxim Likhachev__](http://www.cs.cmu.edu/~maxim/), Robotics Institute Carnegie Mellon University
 * [__Gilwoo Lee__](https://gilwoolee.github.io/), School of Computer Science & Engineering at the University of Washington
-* [__Peter Pastor__](https://scholar.google.com/citations?user=_ws9LLgAAAAJ&hl=de), X (tentative)
+* [__Peter Pastor__](https://scholar.google.com/citations?user=_ws9LLgAAAAJ&hl=de), X
 
 ---
 

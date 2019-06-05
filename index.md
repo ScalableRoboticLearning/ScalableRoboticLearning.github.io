@@ -5,18 +5,54 @@ This workshop is meant to be a platform of exchange between the three communitie
 
 ## Invited Speakers
 * [__Kai Arras__](https://www.bosch.com/de/forschung/know-how/forscher/dr-kai-oliver-arras/), Bosch Robotics Research Program
+  <details>
+    <summary>Topic: </summary>
+ 
+    ### 
+    
+  </details>  
 * [__Michael Beetz__](http://ai.uni-bremen.de/team/michael_beetz), University Bremen
+  <details>
+    <summary>Topic: </summary>
+ 
+    ### 
+    
+  </details>
 * [__Renaud Detry__](https://www-robotics.jpl.nasa.gov/people/Renaud_Detry/), NASA JPL
+  <details>
+    <summary>Topic: </summary>
+ 
+    ### 
+    
+  </details>
 * [__Dieter Fox__](https://homes.cs.washington.edu/~fox/), University of Washington, as well as NVIDIA AI Robotics Research Lab
+  <details>
+    <summary>Topic: </summary>
+ 
+    ### 
+    
+  </details>
 * [__Maxim Likhachev__](http://www.cs.cmu.edu/~maxim/), Robotics Institute Carnegie Mellon University
   <details>
     <summary>Topic: Offline Learning for Online Planning</summary>
  
-    ## Offline Learning for Online Planning
+    ### Offline Learning for Online Planning
     In manufacturing and automation settings, robots often have to perform complex yet repetitive manipulation tasks. Furthermore, in many cases, for example, a robot operating at a moving conveyor, robots have very limited time to decide what action to execute next and how to do it, independently of the complexity of a planning problem. In this talk, I will describe some of our research efforts towards the use of offline learning to ensure that online planning is fast and robust enough for such problems. Specifically, in the first part of the talk, I will present an offline pre-processing method that provides a *provably* constant-time online planning for repetitive planning tasks in static environments. In the second part of the talk, I will describe our approach to learning from offline simulation-based planning for online decision-making under significant uncertainty in the model and environment. I will use mobile manipulation tasks to illustrate the described approaches.
   </details>
 * [__Gilwoo Lee__](https://gilwoolee.github.io/), School of Computer Science & Engineering at the University of Washington
+  <details>
+    <summary>Topic: </summary>
+ 
+    ### 
+    
+  </details>
 * [__Peter Pastor__](https://scholar.google.com/citations?user=_ws9LLgAAAAJ&hl=de), X
+  <details>
+    <summary>Topic: </summary>
+ 
+    ### 
+    
+  </details>
 
 ---
 

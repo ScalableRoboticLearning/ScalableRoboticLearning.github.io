@@ -82,7 +82,7 @@ Submission is now open on EasyChair [__SLIPP-2019RSS__](https://easychair.org/my
 | Time  | Topic |
 | :------------- | :------------- |
 | __8:35 - 8:50__ | __Introductory Remarks__ |
-| __9:05 - 9:45__ | __Invited talk__: to be defined |
+| __9:05 - 9:45__ | __Invited talk__: Maxim Likhachev: Offline Learning for Online Planning
 | __9:45 - 10:25__ | __Invited talk__: to be defined |
 | __10:25 - 10:45__ | __Poster spotlights__ |
 | __10:45 - 11:30__ | __Coffee Break + Posters__ |

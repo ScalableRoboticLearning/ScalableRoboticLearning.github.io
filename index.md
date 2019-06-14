@@ -51,17 +51,17 @@ Submission is now open on EasyChair [__SLIPP-2019RSS__](https://easychair.org/my
 | :------------- | :------------- |
 | __8:00 - 9:00__ | __On-site Registration__ |
 | __9:00 - 9:10__ | __Introductory Remarks__ |
-| __9:10 - 9:50__ | __Invited talk__: Maxim Likhachev <br> *Offline Learning for Online Planning*
+| __9:10 - 9:50__ | __Invited Talk__: Maxim Likhachev <br> *Offline Learning for Online Planning*
 | __9:50 - 10:30__ | __Invited talk__: Renaud Detry |
-| __10:30 - 10:45__ | __Poster spotlights__ |
+| __10:30 - 10:45__ | __Poster Spotlights__ |
 | __10:45 - 11:30__ | __Coffee Break + Posters__ |
-| __11:40 - 12:20__ | __Invited talk__: Peter Pastor |
-| __12:20 - 1:00__ | __Invited talk__: Leonel Rozo |
+| __11:40 - 12:20__ | __Invited Talk__: Peter Pastor |
+| __12:20 - 1:00__ | __Invited Talk__: Leonel Rozo |
 | __1:00 - 1:45__ | __Lunch Break__ |
-| __1:50 - 2:30__ | __Invited talk__: Dieter Fox |
+| __1:50 - 2:30__ | __Invited Talk__: Dieter Fox |
 | __2:30 - 3:15__ | __Coffee Break + Posters__ |
-| __3:20 - 4:00__ | __Invited talk__: Gilwoo Lee |
-| __4:00 - 4:20__ | __Demo/video talks__ |
+| __3:20 - 4:00__ | __Invited Talk__: Gilwoo Lee |
+| __4:00 - 4:20__ | __Demo/Video Talks__ |
 | __4:20 - 4:40__ | __Discussion with participation of the audience and experts__ |
 
 ---

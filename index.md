@@ -13,45 +13,15 @@ This workshop is meant to be a platform of exchange between the three communitie
   </details>
 
 * [__Renaud Detry__](https://www-robotics.jpl.nasa.gov/people/Renaud_Detry/), NASA JPL
-  <details>
-    <summary>Topic</summary>
- 
-    ### 
-    
-  </details>
-
+  
 * [__Peter Pastor__](https://scholar.google.com/citations?user=_ws9LLgAAAAJ&hl=de), X
-  <details>
-    <summary>Topic</summary>
- 
-    ### 
-    
-  </details>
-
+  
 * [__Leonel Rozo__](http://leonelrozo.weebly.com/), Bosch Center for Artificial Intelligence
-  <details>
-    <summary>Topic</summary>
- 
-    ### 
-    
-  </details>  
-
+  
 * [__Dieter Fox__](https://homes.cs.washington.edu/~fox/), University of Washington, as well as NVIDIA AI Robotics Research Lab
-  <details>
-    <summary>Topic</summary>
- 
-    ### 
-    
-  </details>
-
+  
 * [__Gilwoo Lee__](https://gilwoolee.github.io/), School of Computer Science & Engineering at the University of Washington
-  <details>
-    <summary>Topic</summary>
- 
-    ### 
-    
-  </details>
-
+  
 ---
 
 ## Call for Papers

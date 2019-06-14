@@ -5,20 +5,12 @@ This workshop is meant to be a platform of exchange between the three communitie
 
 ## Invited Speakers
 * [__Maxim Likhachev__](http://www.cs.cmu.edu/~maxim/), Robotics Institute Carnegie Mellon University
-
-
   <details>
     <summary>Offline Learning for Online Planning</summary>
   
-  
-    ### Offline Learning for Online Planning
+    *In manufacturing and automation settings, robots often have to perform complex yet repetitive manipulation tasks. Furthermore, in many cases, for example, a robot operating at a moving conveyor, robots have very limited time to decide what action to execute next and how to do it, independently of the complexity of a planning problem. In this talk, I will describe some of our research efforts towards the use of offline learning to ensure that online planning is fast and robust enough for such problems. Specifically, in the first part of the talk, I will present an offline pre-processing method that provides a provably constant-time online planning for repetitive planning tasks in static environments. In the second part of the talk, I will describe our approach to learning from offline simulation-based planning for online decision-making under significant uncertainty in the model and environment. I will use mobile manipulation tasks to illustrate the described approaches.*
     
-    
-    *In manufacturing and automation settings, robots often have to perform complex yet repetitive manipulation tasks. Furthermore, in many cases, for example, a robot operating at a moving conveyor, robots have very limited time to decide what action to execute next and how to do it, independently of the complexity of a planning problem. In this talk, I will describe some of our research efforts towards the use of offline learning to ensure that online planning is fast and robust enough for such problems. Specifically, in the first part of the talk, I will present an offline pre-processing method that provides a *provably* constant-time online planning for repetitive planning tasks in static environments. In the second part of the talk, I will describe our approach to learning from offline simulation-based planning for online decision-making under significant uncertainty in the model and environment. I will use mobile manipulation tasks to illustrate the described approaches.*
-  
-  
   </details>
-
 
 * [__Renaud Detry__](https://www-robotics.jpl.nasa.gov/people/Renaud_Detry/), NASA JPL
   

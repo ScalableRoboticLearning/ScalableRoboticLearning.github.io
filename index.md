@@ -18,10 +18,10 @@ This workshop is meant to be a platform of exchange between the three communitie
   
 * [__Leonel Rozo__](http://leonelrozo.weebly.com/), Bosch Center for Artificial Intelligence
   
-* [__Dieter Fox__](https://homes.cs.washington.edu/~fox/), University of Washington, as well as NVIDIA AI Robotics Research Lab
-  
 * [__Gilwoo Lee__](https://gilwoolee.github.io/), School of Computer Science & Engineering at the University of Washington
   
+* [__Dieter Fox__](https://homes.cs.washington.edu/~fox/), University of Washington, as well as NVIDIA AI Robotics Research Lab
+
 ---
 
 ## Call for Papers
@@ -58,9 +58,9 @@ Submission is now open on EasyChair [__SLIPP-2019RSS__](https://easychair.org/my
 | __11:40 - 12:20__ | __Invited Talk__: Peter Pastor |
 | __12:20 - 1:00__ | __Invited Talk__: Leonel Rozo |
 | __1:00 - 1:45__ | __Lunch Break__ |
-| __1:50 - 2:30__ | __Invited Talk__: Dieter Fox |
+| __1:50 - 2:30__ | __Invited Talk__: Gilwoo Lee |
 | __2:30 - 3:15__ | __Coffee Break + Posters__ |
-| __3:20 - 4:00__ | __Invited Talk__: Gilwoo Lee |
+| __3:20 - 4:00__ | __Invited Talk__: Dieter Fox |
 | __4:00 - 4:20__ | __Demo/Video Talks__ |
 | __4:20 - 4:40__ | __Discussion with participation of the audience and experts__ |
 

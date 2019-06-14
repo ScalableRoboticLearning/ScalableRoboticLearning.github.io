@@ -4,14 +4,24 @@ This workshop is meant to be a platform of exchange between the three communitie
 ---
 
 ## Invited Speakers
-* [__Kai Arras__](https://www.bosch.com/de/forschung/know-how/forscher/dr-kai-oliver-arras/), Bosch Robotics Research Program
-* [__Michael Beetz__](http://ai.uni-bremen.de/team/michael_beetz), University Bremen
-* [__Renaud Detry__](https://www-robotics.jpl.nasa.gov/people/Renaud_Detry/), NASA JPL
-* [__Dieter Fox__](https://homes.cs.washington.edu/~fox/), University of Washington, as well as NVIDIA AI Robotics Research Lab
 * [__Maxim Likhachev__](http://www.cs.cmu.edu/~maxim/), Robotics Institute Carnegie Mellon University
-* [__Gilwoo Lee__](https://gilwoolee.github.io/), School of Computer Science & Engineering at the University of Washington
-* [__Peter Pastor__](https://scholar.google.com/citations?user=_ws9LLgAAAAJ&hl=de), X
+  <details>
+    <summary>Offline Learning for Online Planning</summary>
+ 
+    ### Offline Learning for Online Planning
+    *In manufacturing and automation settings, robots often have to perform complex yet repetitive manipulation tasks. Furthermore, in many cases, for example, a robot operating at a moving conveyor, robots have very limited time to decide what action to execute next and how to do it, independently of the complexity of a planning problem. In this talk, I will describe some of our research efforts towards the use of offline learning to ensure that online planning is fast and robust enough for such problems. Specifically, in the first part of the talk, I will present an offline pre-processing method that provides a *provably* constant-time online planning for repetitive planning tasks in static environments. In the second part of the talk, I will describe our approach to learning from offline simulation-based planning for online decision-making under significant uncertainty in the model and environment. I will use mobile manipulation tasks to illustrate the described approaches.*
+  </details>
 
+* [__Renaud Detry__](https://www-robotics.jpl.nasa.gov/people/Renaud_Detry/), NASA JPL
+  
+* [__Peter Pastor__](https://scholar.google.com/citations?user=_ws9LLgAAAAJ&hl=de), X
+  
+* [__Leonel Rozo__](http://leonelrozo.weebly.com/), Bosch Center for Artificial Intelligence
+  
+* [__Dieter Fox__](https://homes.cs.washington.edu/~fox/), University of Washington, as well as NVIDIA AI Robotics Research Lab
+  
+* [__Gilwoo Lee__](https://gilwoolee.github.io/), School of Computer Science & Engineering at the University of Washington
+  
 ---
 
 ## Call for Papers
@@ -39,20 +49,20 @@ Submission is now open on EasyChair [__SLIPP-2019RSS__](https://easychair.org/my
 
 | Time  | Topic |
 | :------------- | :------------- |
-| __8:35 - 8:50__ | __Introductory Remarks__ |
-| __9:05 - 9:45__ | __Invited talk__: to be defined |
-| __9:45 - 10:25__ | __Invited talk__: to be defined |
-| __10:25 - 10:45__ | __Poster spotlights__ |
+| __8:00 - 9:00__ | __On-site Registration__ |
+| __9:00 - 9:10__ | __Introductory Remarks__ |
+| __9:10 - 9:50__ | __Invited Talk__: Maxim Likhachev <br> *Offline Learning for Online Planning*
+| __9:50 - 10:30__ | __Invited talk__: Renaud Detry |
+| __10:30 - 10:45__ | __Poster Spotlights__ |
 | __10:45 - 11:30__ | __Coffee Break + Posters__ |
-| __11:40 - 12:20__ | __Invited talk__: to be defined |
-| __12:20 - 1:00__ | __Invited talk__: to be defined |
+| __11:40 - 12:20__ | __Invited Talk__: Peter Pastor |
+| __12:20 - 1:00__ | __Invited Talk__: Leonel Rozo |
 | __1:00 - 1:45__ | __Lunch Break__ |
-| __1:45 - 2:30__ | __Invited talk__: to be defined |
-| __2:30 - 3:00__ | __Coffee Break + Posters__ |
-| __3:00 - 3:40__ | __Invited talk__: to be defined |
-| __3:40 - 4:00__ | __Demo/video talks__ |
-| __4:00 - 4:40__ | __Invited talk__: to be defined |
-| __4:40 - 5:00__ | __Discussion with participation of the audience and experts__ |
+| __1:50 - 2:30__ | __Invited Talk__: Dieter Fox |
+| __2:30 - 3:15__ | __Coffee Break + Posters__ |
+| __3:20 - 4:00__ | __Invited Talk__: Gilwoo Lee |
+| __4:00 - 4:20__ | __Demo/Video Talks__ |
+| __4:20 - 4:40__ | __Discussion with participation of the audience and experts__ |
 
 ---
 

@@ -72,7 +72,7 @@ Submission is now open on EasyChair [__SLIPP-2019RSS__](https://easychair.org/my
 | :------------- | :------------- |
 | June 7, 2019 (23:59  Pacific Time) | Paper Submission Deadline |
 | June 14, 2019 (23:59 Pacific Time) | Paper Acceptance Notification |
-| June 22, 2019 | Workshop |
+| June 22, 2019 (Saturday) | Workshop <br> __WS1-2__ Scalable Learning for Integrated Perception and Planning <br> 	[Faculty of Engineering](https://goo.gl/maps/2iwdEFKUh1m), Building [82](http://www.roboticsconference.org/docs/workshops.pdf), Room [00 006](http://www.roboticsconference.org/program/workshops/bd82/)
 
 ---
 

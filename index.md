@@ -15,7 +15,9 @@ This workshop is meant to be a platform of exchange between the three communitie
 * [__Renaud Detry__](https://www-robotics.jpl.nasa.gov/people/Renaud_Detry/), NASA JPL
   
 * [__Sergey Levin__](https://people.eecs.berkeley.edu/~svlevine/), UC Berkeley, EECS
-  
+  <details>
+    <summary>Data-Driven Robotic Reinforcement Learning</summary>
+  </details>
 * [__Leonel Rozo__](http://leonelrozo.weebly.com/), Bosch Center for Artificial Intelligence
   <details>
     <summary>Exploiting Geometric and Temporal Structure in Object-centric Skills Learning</summary>
@@ -58,7 +60,7 @@ Submission is now open on EasyChair [__SLIPP-2019RSS__](https://easychair.org/my
 | __9:50 - 10:30__ | __Invited talk__: Renaud Detry |
 | __10:30 - 10:45__ | __Poster Spotlights__ |
 | __10:45 - 11:30__ | __Coffee Break + Posters__ |
-| __11:40 - 12:20__ | __Invited Talk__: Sergey Levine |
+| __11:40 - 12:20__ | __Invited Talk__: Sergey Levine <br> *Data-Driven Robotic Reinforcement Learning*|
 | __12:20 - 1:00__ | __Invited Talk__: Leonel Rozo <br> *Exploiting Geometric and Temporal Structure in Object-centric Skills Learning*|
 | __1:00 - 1:45__ | __Lunch Break__ |
 | __1:50 - 2:30__ | __Invited Talk__: Gilwoo Lee |

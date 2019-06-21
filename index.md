@@ -17,6 +17,8 @@ This workshop is meant to be a platform of exchange between the three communitie
 * [__Sergey Levin__](https://people.eecs.berkeley.edu/~svlevine/), UC Berkeley, EECS
   <details>
     <summary>Data-Driven Robotic Reinforcement Learning</summary>
+  
+  The ability of machine learning systems to generalize to new situations is determined in large part by the availability of large and diverse training sets. In robotics, it is often thought that large datasets are difficult to obtain, and therefore we need alternative methods that can handle small datasets. In this talk, I will discuss how in fact robots should be better suited for large-data training regimes than supervised learning systems, since they do not require humans to manually provide labels for the data. I will discuss how effective robotic learning requires removing the barriers to data-driven improvement from every part of the learning pipeline, from task specification, to data collection, to off-policy reinforcement learning, and present initial results that study each of these problems.
   </details>
 * [__Leonel Rozo__](http://leonelrozo.weebly.com/), Bosch Center for Artificial Intelligence
   <details>

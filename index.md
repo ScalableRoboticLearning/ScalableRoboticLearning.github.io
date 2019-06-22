@@ -33,6 +33,9 @@ This workshop is meant to be a platform of exchange between the three communitie
   </details>
   
 * [__Dieter Fox__](https://homes.cs.washington.edu/~fox/), University of Washington, as well as NVIDIA AI Robotics Research Lab
+  <details>
+    <summary>Simulation for Training Manipulation Systems</summary>
+  </details>
 
 ---
 
@@ -72,7 +75,7 @@ Submission is now open on EasyChair [__SLIPP-2019RSS__](https://easychair.org/my
 | __1:00 - 1:45__ | __Lunch Break__ |
 | __1:50 - 2:30__ | __Invited Talk__: Gilwoo Lee <br> *Bayesian Reinforcement Learning*|
 | __2:30 - 3:15__ | __Coffee Break + Posters__ |
-| __3:20 - 4:00__ | __Invited Talk__: Dieter Fox |
+| __3:20 - 4:00__ | __Invited Talk__: Dieter Fox <br> *Simulation for Training Manipulation Systems*|
 | __4:00 - 4:20__ | __Demo/Video Talks__ |
 | __4:20 - 4:40__ | __Discussion with participation of the audience and experts__ |
 

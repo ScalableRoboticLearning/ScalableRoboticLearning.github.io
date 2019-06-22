@@ -13,7 +13,9 @@ This workshop is meant to be a platform of exchange between the three communitie
   </details>
 
 * [__Renaud Detry__](https://www-robotics.jpl.nasa.gov/people/Renaud_Detry/), NASA JPL
-  
+  <details>
+    <summary> Combining Semantic and Geometric Scene Understanding: From Robot Manipulation to Planetary Exploration </summary>
+  </details>
 * [__Sergey Levin__](https://people.eecs.berkeley.edu/~svlevine/), UC Berkeley, EECS
   <details>
     <summary>Data-Driven Robotic Reinforcement Learning</summary>

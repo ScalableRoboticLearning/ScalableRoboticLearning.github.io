@@ -61,7 +61,7 @@ Submission is now open on EasyChair [__SLIPP-2019RSS__](https://easychair.org/my
 | __8:00 - 9:00__ | __On-site Registration__ |
 | __9:00 - 9:10__ | __Introductory Remarks__ |
 | __9:10 - 9:50__ | __Invited Talk__: Maxim Likhachev <br> *Offline Learning for Online Planning*|
-| __9:50 - 10:30__ | __Invited talk__: Renaud Detry |
+| __9:50 - 10:30__ | __Invited talk__: Renaud Detry <br> *Combining Semantic and Geometric Scene Understanding: From Robot Manipulation to Planetary Exploration*|
 | __10:30 - 10:45__ | __Poster Spotlights__ |
 | __10:45 - 11:30__ | __Coffee Break + Posters__ |
 | __11:40 - 12:20__ | __Invited Talk__: Sergey Levine <br> *Data-Driven Robotic Reinforcement Learning*|

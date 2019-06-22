@@ -28,6 +28,9 @@ This workshop is meant to be a platform of exchange between the three communitie
   </details>
   
 * [__Gilwoo Lee__](https://gilwoolee.github.io/), School of Computer Science & Engineering at the University of Washington
+  <details>
+    <summary>Bayesian Reinforcement Learning</summary>
+  </details>
   
 * [__Dieter Fox__](https://homes.cs.washington.edu/~fox/), University of Washington, as well as NVIDIA AI Robotics Research Lab
 
@@ -67,7 +70,7 @@ Submission is now open on EasyChair [__SLIPP-2019RSS__](https://easychair.org/my
 | __11:40 - 12:20__ | __Invited Talk__: Sergey Levine <br> *Data-Driven Robotic Reinforcement Learning*|
 | __12:20 - 1:00__ | __Invited Talk__: Leonel Rozo <br> *Exploiting Geometric and Temporal Structure in Object-centric Skills Learning*|
 | __1:00 - 1:45__ | __Lunch Break__ |
-| __1:50 - 2:30__ | __Invited Talk__: Gilwoo Lee |
+| __1:50 - 2:30__ | __Invited Talk__: Gilwoo Lee <br> *Bayesian Reinforcement Learning*|
 | __2:30 - 3:15__ | __Coffee Break + Posters__ |
 | __3:20 - 4:00__ | __Invited Talk__: Dieter Fox |
 | __4:00 - 4:20__ | __Demo/Video Talks__ |
